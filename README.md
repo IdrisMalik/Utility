@@ -51,7 +51,6 @@ notepad/
 ├── model.py        # Data and file operations
 ├── view.py         # User interface components
 ├── controller.py   # Application logic and event handling
-└── README.md       # This file
 ```
 
 ## Acknowledgments
